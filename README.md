@@ -22,5 +22,4 @@
 |---|---|---|
 | 01 | LCC 항공 ↔ 생성형 AI | [01_porters_five_forces_analysis.md](01_porters_five_forces_analysis.md) |
 | 01 | 반도체 파운드리 ↔ 화장품 ODM<br/>2차전지·ESS ↔ 방위산업·우주항공 | [01_porters-five-forces/](01_porters-five-forces/) |
-| 04 | 자산 가치평가 인프라 (상업용 부동산 · 디지털 자산) | [04_tam-sam-som/02_사례_자산가치평가/](04_tam-sam-som/02_사례_자산가치평가/) |
-| 04 | 식량 손실·폐기 ↔ 아시아 식량 불균형 | [04_tam-sam-som/01_사례_식량불균형.md](04_tam-sam-som/01_사례_식량불균형.md) |
+| 04 | 자산 가치평가 인프라<br/>(상업용 부동산 · 디지털 자산 · 미술품) | [04_tam-sam-som/02_사례_자산가치평가/](04_tam-sam-som/02_사례_자산가치평가/) |
