@@ -6,7 +6,7 @@
 
 | # | 챕터 | 분석 층위 |
 |---|------|-----------|
-| 01 | Porter's Five Forces 모델 | 산업 구조 |
+| 01 | [Porter's Five Forces 모델](01_porters-five-forces/) ✅ | 산업 구조 |
 | 02 | 기업 내부 활동의 가치 사슬 분석 | 기업 내부 |
 | 03 | 핵심 성공 요인(KSFs, Key Success Factors) 분석 | 산업↔기업 접점 |
 | 04 | TAM-SAM-SOM 과 Market Segment Map | 시장 규모 |
