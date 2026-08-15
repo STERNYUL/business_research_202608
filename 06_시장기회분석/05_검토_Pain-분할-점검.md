@@ -55,7 +55,7 @@
 >
 > **함의**: [해외 벤더와의 차별점을 *"원화 시장 반영"* 으로 잡았는데](../08_value-proposition/00_리서치_경쟁사-가치선언.md), 그보다 **"저유동성 종목 커버리지"** 가 더 정확한 차별축일 수 있습니다. CF Benchmarks·Kaiko도 롱테일 자산으로 확장 중이지만, **국내 알트 + 원화 시장의 교집합은 아직 비어 있습니다.**
 >
-> **그리고 [F21(호가 깊이·유동성 지표)의 우선순위가 올라갑니다](../08_value-proposition/VALUE-PROPOSITION_자산가치평가인프라_claude-opus-5-1m_effort-high.md)** — 현재 Mid·MVP 제외인데, PS-1b가 최상위 기회라면 그것을 산출하는 데 유동성 지표가 전제입니다.
+> **그리고 [F21(호가 깊이·유동성 지표)의 우선순위가 올라갑니다](../08_value-proposition/IVI-VPS-v1_0-merged.md)** — 현재 Mid·MVP 제외인데, PS-1b가 최상위 기회라면 그것을 산출하는 데 유동성 지표가 전제입니다.
 
 ---
 
@@ -84,7 +84,7 @@
 
 **[혼합 매트릭스 §7-5에 남겨둔 미해결 지점](04_사례_aos-dos-매트릭스.md)이 있었습니다.**
 
-> *"KD-1은 AOS 1.8 · Q3인데 [VP의 MVP에서 F10을 High 우선순위](../08_value-proposition/VALUE-PROPOSITION_자산가치평가인프라_claude-opus-5-1m_effort-high.md)로 두고 있습니다. ... 점수가 낮아도 인프라인 항목이 있습니다."*
+> *"KD-1은 AOS 1.8 · Q3인데 [VP의 MVP에서 F10을 High 우선순위](../08_value-proposition/IVI-VPS-v1_0-merged.md)로 두고 있습니다. ... 점수가 낮아도 인프라인 항목이 있습니다."*
 
 **분할하면 모순이 사라집니다.**
 
@@ -106,7 +106,7 @@
 | 고객에게 하는 말 | 업무 효율화 | **미갱신 자산 69% → 0%** |
 | 대응 Outcome | O4 *(갱신 자산 비율 31% → 100%)* | 동일 — **다만 증분의 출처가 명확해짐** |
 
-**[VP §3의 O4 지표가 이 분할로 근거를 얻습니다](../08_value-proposition/VALUE-PROPOSITION_자산가치평가인프라_claude-opus-5-1m_effort-high.md)** — 31% → 100%의 증분 69%p가 정확히 KD-1b 구간입니다.
+**[VP §3의 O4 지표가 이 분할로 근거를 얻습니다](../08_value-proposition/IVI-VPS-v1_0-merged.md)** — 31% → 100%의 증분 69%p가 정확히 KD-1b 구간입니다.
 
 ---
 
